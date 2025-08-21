@@ -82,4 +82,4 @@ jobs:
           DEBUG: true
           fixType: batch
           files: changed
-          emailForCommits: octocat@github.com
+          emailForCommits: "octocat@github.com"
